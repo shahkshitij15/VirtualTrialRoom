@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ARshop</string>
+    <string name="nav_header_title">Full Name</string>
+    <string name="nav_header_subtitle">Email</string>
+    <string name="nav_header_desc">AR Shop</string>
+    <string name="log_out">Log Out</string>
+    <string name="cart">Go To Cart</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_category">Categories</string>
+    <string name="menu_slideshow">Intro Screen</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="intro_message">Welcome To ARshop</string>
+    <string name="request_permission">Need Permission to access Camera</string>
+    <string name="camera_error">Camera not found</string>
+
+    <string name="action_add_cart">Add to Cart</string>
+
+    <string name="slide_1_title">Welcome User </string>
+    <string name="slide_1_desc">Click on next to know a little about the app </string>
+    <string name="slide_2_title">A lot of Options</string>
+    <string name="slide_2_desc">Pick the clothes that you like from a wide variety of options that we provide </string>
+    <string name="slide_3_title">Virtually try clothes </string>
+    <string name="slide_3_desc">Try on clothes without going to the trial room using Augmented Reality </string>
+    <string name="slide_4_title">Add to Cart </string>
+    <string name="slide_4_desc">Add the clothes you like to your personal cart and pay for them while checking out </string>
+    <string name="my_preference">"com.example.com.MyPref" </string>
+    <string name="my_preference_key">"com.example.com.MyPrefKey" </string>
+</resources>
